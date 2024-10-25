@@ -1,3 +1,4 @@
 payload:
   - '+.51kxd.com'
   - '+.busdex.ai'
+  - '+.pthome.net'
