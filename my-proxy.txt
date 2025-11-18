@@ -1,0 +1,5 @@
+payload:
+  - '+.52pt.site'
+  - '+.avistaz.to'
+  - '+.coinsight.ai'
+  - '+.dolphinx.ai'
