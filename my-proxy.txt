@@ -3,3 +3,4 @@ payload:
   - '+.avistaz.to'
   - '+.coinsight.ai'
   - '+.dolphinx.ai'
+  - '+.plisio.net'
