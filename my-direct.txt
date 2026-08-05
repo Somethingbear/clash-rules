@@ -3,4 +3,3 @@ payload:
   - '+.pthome.net'
   - '+.somethingbear.shop'
   - '+.gazellegames.net'
-  - '+.jiji.cc'
