@@ -3,3 +3,4 @@ payload:
   - '+.pthome.net'
   - '+.somethingbear.shop'
   - '+.gazellegames.net'
+  - '+.app.sxrjg.com'
