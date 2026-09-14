@@ -5,3 +5,4 @@ payload:
   - '+.dolphinx.ai'
   - '+.plisio.net'
   - '+.kzo.moe'
+  - '+.bgm.tv'
