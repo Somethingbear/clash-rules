@@ -4,4 +4,3 @@ payload:
   - '+.somethingbear.shop'
   - '+.gazellegames.net'
   - '+.app.sxrjg.com'
-  - '+.bgm.tv'
