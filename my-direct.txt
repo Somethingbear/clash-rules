@@ -4,3 +4,4 @@ payload:
   - '+.somethingbear.shop'
   - '+.gazellegames.net'
   - '+.app.sxrjg.com'
+  - '+.0591pod.com'
